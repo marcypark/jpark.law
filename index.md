@@ -8,7 +8,7 @@ Please see the Contact page if you have any comments or questions, or to arrange
 
 Joseph S. Park, Attorney at Law<br/>3440 Wilshire Blvd. Suite 550, Los Angeles, California 90010<br/>Tel. (917) 727-5563<br/>Email j@jpark.law
 
-## Attorney Profile
+## Attorney profile
 
 I believe that the attorney-client relationship should truly be a _relationship_ of trust and candor (see my sixth essay on the FAQs page). I hope that the following will help you evaluate whether I am a decent person and competent in my work, so as to merit that trust and candor. I
 strongly recommend an initial in-person or telephone consultation. Please feel free to contact me if you have any further questions.
@@ -36,6 +36,10 @@ I do not practice in just one field of law. I have significant experience in and
 
 I am open to limited representation in other fields as well. Please do not hesitate to ask.
 
+## Curriculum vitae
+
+[available here](assets/jsp_cv.pdf)
+
 ## How to contact me
 
 Please feel free to call or write to me at the following:
@@ -52,18 +56,47 @@ I have found that I begin most attorney-client relationships in this pattern:
 
 For first-time contact, I prefer e-mail correspondence, because I check it regularly and it is reliable. Also, I am able to spend some time thinking about my responses, perhaps do some preliminary research, and check my calendar availability before answering your inquiry.
 
-## Korean page
+## 한글 - Joseph S. Park, Attorney at Law
 
-1. 서론: 법은 무엇인가?.
-2. 가정법: 이혼에는, 항상 이깁니다.
-3. 재산분할: 준비되었습니까?
-4. 상법: 90%의 경우는 이미 늦었습니다!
-5. 소송: 소송의 길은 멀고 험난합니다.
-6. 변호사와 고객과의 관계: 믿습니까?
-7. 병예회손: 말조심, 글조심!.
-8. 서업체등록: 누구세요?
-9. 상표등록: 내 상표의 고유성을 지키라!
-10. 크고작은 법의 주변: 잘 삽시다.
+### 서론: 법은 무엇인가?.
+
+![](/assets/244227_orig.jpg)
+
+### 가정법: 이혼에는, 항상 이깁니다.
+
+![](/assets/1860952_orig.jpg)
+
+### 재산분할: 준비되었습니까?
+
+![](assets/3733552_orig.jpg)
+
+### 상법: 90%의 경우는 이미 늦었습니다!
+
+![](assets/4446187.jpg)
+
+### 소송: 소송의 길은 멀고 험난합니다.
+
+![](assets/5318889_orig.jpg)
+
+### 변호사와 고객과의 관계: 믿습니까?
+
+![](assets/6325704_orig.jpg)
+
+### 병예회손: 말조심, 글조심!.
+
+![](assets/8234902_orig.jpg)
+
+### 서업체등록: 누구세요?
+
+![](assets/8399110_orig.jpg)
+
+### 상표등록: 내 상표의 고유성을 지키라!
+
+![](assets/9143904_orig.jpg)
+
+### 크고작은 법의 주변: 잘 삽시다.
+
+![](assets/9765957_orig.jpg)
 
 시리즈 10 (크고작은 법의 주변): “잘” 삽시다!
 
